@@ -1,0 +1,39 @@
+
+
+header{
+	background: maroon;
+	font-size: 50px;
+	font-family: Rockwell;
+}
+
+body{
+	background: lightpink;
+	
+	font-size: 20px;
+
+}
+
+h1{
+	color: navy;
+	font-family: font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+	background-size: 10px;
+
+}
+h2{
+	color: navy;
+	font-family: font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+	background-size: 7px;
+
+}
+h3{
+	color: navy;
+	font-family: font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+	background-size: 5px;
+
+}
+p{
+	font-family: font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+}
+a{
+	color: magenta;
+}
